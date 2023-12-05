@@ -1,27 +1,4 @@
 # StudyNotion
-## Live 
-https://study-notion-frontend-wheat.vercel.app/ \
-otp mail will be in your spam section
-## Installation
-
-1. Clone the repository: `https://github.com/Horror26/StudyNotion.git`
-2. Navigate to the project directory: `cd `
-3. Install dependencies: `npm install`
-
-## Configuration
-
-1. For only frontend replace the example.env file in root with .env and
-     ```sh
-    npm run start
-    ```
-2. Replace an `example.env` files with your enviroment virables
-3. Start the development server.
-    ```sh
-    npm run dev
-    ```
-## Contributing
-
-Contributions are welcome! If you have any suggestions or find any issues, please feel free to open an issue or a pull request.
 
 ## System Architecture
 
